@@ -7,7 +7,7 @@
 
 1. Day 0: Hello, World. [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-hello-world/submissions/code/205344677)
 2. Day 1: Data Types [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-data-types/submissions/code/205409658)
-3. Day 2: Operators [Difficulty: Easy]
+3. Day 2: Operators [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-operators/submissions/code/205603355)
 4. Day 3: Intro to Conditional Statements [Difficulty: Easy]
 5. Day 4: Class vs. Instance [Difficulty: Easy]
 6. Day 5: Loops [Difficulty: Easy]

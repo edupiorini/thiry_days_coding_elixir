@@ -1,6 +1,8 @@
 defmodule ThirtyDaysCoding.ZeroHelloWorld do
-  IO.puts("Hello, World.")
+  def print do
+    IO.write("Hello, World!")
 
-  input_string = IO.gets("")
-  IO.puts(input_string)
+    IO.gets("")
+    |> IO.puts()
+  end
 end

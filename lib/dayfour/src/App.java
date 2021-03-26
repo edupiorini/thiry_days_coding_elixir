@@ -13,13 +13,34 @@ public class App {
     }
 
     public void amIOld() {
-        // Write code determining if this person's age is old and print the correct
-        // statement:
-        System.out.println(/* Insert correct print statement here */);
+        String message;
+        if (this.age < 13)
+            message = "You are young.";
+        else if (this.age >= 13 && this.age < 18)
+            message = "You are a teenager.";
+        else
+            message = "You are old.";
+
+        System.out.println(message);
     }
 
     public void yearPasses() {
-  		// Increment this person's age.
-	}
+        this.age++;
+    }
 
-public static void main(String[] args) {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int T = sc.nextInt();
+        for (int i = 0; i < T; i++) {
+            int age = sc.nextInt();
+            App p = new App(age);
+            p.amIOld();
+            for (int j = 0; j < 3; j++) {
+                p.yearPasses();
+            }
+            p.amIOld();
+            System.out.println();
+        }
+        sc.close();
+    }
+}

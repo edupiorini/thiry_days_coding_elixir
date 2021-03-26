@@ -9,7 +9,7 @@
 2. Day 1: Data Types [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-data-types/submissions/code/205409658)
 3. Day 2: Operators [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-operators/submissions/code/205603355)
 4. Day 3: Intro to Conditional Statements [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-conditional-statements/submissions/code/205811591) 
-5. Day 4: Class vs. Instance [Difficulty: Easy]
+5. Day 4: Class vs. Instance [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-class-vs-instance/submissions/code/205920075) 
 6. Day 5: Loops [Difficulty: Easy]
 7. Day 6: Let's Review [Difficulty: Easy]
 8. Day 7: Arrays [Difficulty: Easy]

@@ -1,7 +1,7 @@
 # ThirtyDaysCoding
 
 
-## Attempt to complete the HackerRank 30 Days of Code in Elixir 
+## Attempt to complete the HackerRank 30 Days of Code in Elixir or Java when Elixir is not available
 
 ### Challenge List
 

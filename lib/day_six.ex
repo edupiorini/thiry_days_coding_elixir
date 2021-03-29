@@ -4,9 +4,11 @@ defmodule ThirtyDaysCoding.DaySix do
     find_index(number)
   end
 
-  defp read_line do
+  defp read_parse_line do
     IO.read(:stdio, :line)
     |> String.trim()
+    |> String.split("", trim: true)
+    |> List.to_tuple()
   end
 
   defp read_integer do
@@ -16,13 +18,11 @@ defmodule ThirtyDaysCoding.DaySix do
   end
 
   defp find_index(loop) when loop == 1 do
-    read_line()
-    |> IO.inspect()
+    read_parse_line()
   end
 
   defp find_index(loop) do
-    read_line()
-    |> IO.inspect()
+    read_parse_line()
 
     loop = loop - 1
     find_index(loop)

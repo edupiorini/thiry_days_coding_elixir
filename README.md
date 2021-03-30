@@ -11,7 +11,7 @@
 4. Day 3: Intro to Conditional Statements [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-conditional-statements/submissions/code/205811591) 
 5. Day 4: Class vs. Instance [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-class-vs-instance/submissions/code/205920075) 
 6. Day 5: Loops [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-loops/submissions/code/206063587) 
-7. Day 6: Let's Review [Difficulty: Easy]
+7. Day 6: Let's Review [Difficulty: Easy] [Status: Complete](https://www.hackerrank.com/challenges/30-review-loop/submissions/code/206466085)
 8. Day 7: Arrays [Difficulty: Easy]
 9. Day 8: Dictionaries and Maps [Difficulty: Easy]
 10. Day 9: Recursion [Difficulty: Easy]

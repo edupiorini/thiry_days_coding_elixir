@@ -65,3 +65,29 @@ defmodule ThirtyDaysCoding.DayEight do
     end
   end
 end
+
+# OPTIONAL
+# defmodule Phonebook do
+#   def run(book) do
+#     book = book |> query(IO.gets(""))
+#     unless book == :done, do: run(book)
+#   end
+
+#   defp query(_book, :eof), do: :done
+#   defp query(book, "" <> string) do
+#     request = string |> String.split(~r/\W/, trim: true)
+#     book |> query(request)
+#   end
+
+#   defp query(book, [name]) do
+#     (if book[name], do: "#{name}=#{book[name]}", else: "Not found") |> IO.puts
+#     book
+#   end
+
+#   defp query(book, [name, number]) do
+#     put_in(book[name], number)
+#   end
+# end
+
+# IO.gets("")
+# Phonebook.run(%{})

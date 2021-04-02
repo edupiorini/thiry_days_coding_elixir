@@ -65,5 +65,3 @@ defmodule ThirtyDaysCoding.DayEight do
     end
   end
 end
-
-ThirtyDaysCoding.DayEight.run()
